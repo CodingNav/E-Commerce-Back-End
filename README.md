@@ -20,6 +20,11 @@ This repo includes the  <b>back end for an e-commerce site</b>. I configured a w
 ## Preview
 <img src="./images/screenshot.png" alt="Web Page" width="100%">
 
+
+https://user-images.githubusercontent.com/58195156/138374266-4c028aee-112b-49b7-a6fd-7f0bfb753081.mov
+
+
+
 ## User Story
 ```
 AS A manager at an internet retail company
