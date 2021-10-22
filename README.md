@@ -70,11 +70,10 @@ navleenkaurr@gmail.com
 
 # Technologies
 <img align="middle" src="./images/js.jpg" alt="Javascript" width="10%"/>&nbsp; &nbsp; &nbsp; 
+<img align="middle" src="./images/dotenv.png" alt="Dotenv" width="10%"/>&nbsp; &nbsp; &nbsp; 
 <img align="middle" src="./images/nodejs.png" alt="Nodejs" width="20%"/>&nbsp; &nbsp; &nbsp; 
-<img align="middle" src="./images/expressjs.png" alt="Expressjs" width="20%"/>
+<img align="middle" src="./images/expressjs.png" alt="Expressjs" width="25%"/>
 &nbsp; &nbsp; &nbsp; 
 <img align="middle" src="./images/mysql.png" alt="MySQL" width="20%"/>
 &nbsp; &nbsp; &nbsp; 
 <img align="middle" src="./images/sequelize.png" alt="Sequelize" width="20%"/>
-&nbsp; &nbsp; &nbsp; 
-<img align="middle" src="./images/dotenv.png" alt="Dotenv" width="20%"/>
